@@ -2,6 +2,7 @@
 
 #Compass
 Visual Interface to MongoDB
+Features Performance Charts, Index Management, 
 
 #Design Features
 Flexible Schema
